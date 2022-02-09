@@ -4,7 +4,7 @@
     <div class="d-flex justify-content-between  align-items-center pt-4 pb-4">
       <a> <img src="../assets/logo.png"></a>
       <ul class="d-flex menu m-0">
-        <li class="menu-item"><router-link class="router-link" to="/">Форма</router-link></li>
+        <li class="menu-item"><router-link class="router-link" to="/alefDev">Форма</router-link></li>
         <li class="menu-item"><router-link class="router-link" to="/preview">Превью</router-link></li>
       </ul>
     </div>
