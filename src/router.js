@@ -4,7 +4,7 @@ import Preview from "@/components/Preview";
 
 const routes = [
     {
-        path:'/',
+        path:'/alefDev',
         name:'Form',
         component:Form
     },
